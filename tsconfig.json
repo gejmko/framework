@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "rootDir": "./src/",
+    "target": "es2017",
+    "sourceMap": true,
+    "outDir": "./lib/",
+    "strictNullChecks": true,
+    "allowJs": true,
+    "moduleResolution": "node",
+
+    "strictPropertyInitialization": false,
+    "noImplicitAny": false
+  },
+  "include": ["./src/"],
+  "exclude": ["node_modules", "./tests/", "./build/"]
+}
