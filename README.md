@@ -1,6 +1,9 @@
 Gejmko — The TypeScript Micro 2D Game Engine
 =============
 
+[![Gejmko-main Actions Status](https://github.com/gejmko/framework/workflows/test/badge.svg)](https://github.com/gejmko/framework/actions)
+
+
 The aim of this project is to provide a fast, micro and lightweight 2D framework for creating browser based games.
 It's fast and really simple.
 
