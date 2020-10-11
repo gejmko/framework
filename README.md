@@ -41,7 +41,7 @@ before submitting changes.
 ### Basic Usage Example ###
 
 ```js
-import * as Gejmko from 'gejmko/src';
+import * as Gejmko from '@gejmko/framework';
 
 const viewport = new Gejmko.Viewport('game-id-element');
 viewport.init();
