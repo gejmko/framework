@@ -43,7 +43,7 @@ make your change to (and send a PR to) depends on the type of change you are mak
 
 Here is our branch breakdown:
 
-- `master` - Always avoid for direct change.
+- `main` - Always avoid for direct change.
 - `develop` - Make change to `develop` if it is a feature, bugfix or a backwards-compatible feature.
 
 Your change should be made directly to the branch in your fork, or to a branch in your fork made off of
