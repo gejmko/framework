@@ -31,7 +31,7 @@ before submitting changes.
 
 ### Current features ###
 
-- Canvas renderer (Fastest in town!)
+- Canvas renderer
 - Sprites
 - Styles
 
