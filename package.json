@@ -1,5 +1,5 @@
 {
-  "name": "gejmko",
+  "name": "@gejmko/framework",
   "version": "1.0.0",
   "description": "Typescript game engine",
   "main": "index.js",
